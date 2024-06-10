@@ -1,5 +1,3 @@
-# Git e versionamento de código
+# Santander Coders 2024
 
-* Versionamento é o resgitro de mudanças em arquivos, que possibilita recuperações ou acesso das versões anteriores.
-
-* Git é um sistema de versionamento de código, que guarda os registros de versão como "snapshots".
+* Olá, neste repositório estou realizando alguns treinamentos do que estou aprendendo na primeira fase do Santander Coders 2024, oferecido pelo Santander em parceria com a Ada Tech.
